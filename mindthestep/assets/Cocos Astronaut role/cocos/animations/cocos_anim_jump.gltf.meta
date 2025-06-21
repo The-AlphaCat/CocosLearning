@@ -28,7 +28,10 @@
           "to": 1.6666667461395264
         },
         "speed": 1,
-        "wrapMode": 2
+        "wrapMode": 2,
+        "embeddedPlayers": [],
+        "editorExtras": {},
+        "auxiliaryCurves": {}
       }
     },
     "645e0": {
