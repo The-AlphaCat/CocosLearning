@@ -57,7 +57,7 @@ export class Orc extends Component {
 
     start() {
         // To modify the position of the node
-        this.node.setPosition(-520, this.node.getPosition().y);
+        // this.node.setPosition(-520, this.node.getPosition().y);
         // To modify the content size of the node
         // this.getComponent(UITransform).setContentSize(this.getComponent(UITransform).contentSize.width * 0.15, this.getComponent(UITransform).contentSize.height * 0.15);
         this.ani = this.getComponent(Animation);
